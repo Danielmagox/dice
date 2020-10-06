@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,qBAAuB,CACvB,kBAAmB,CACnB,YAAa,CACb,WAAY,CACZ,iBAAkB,CAClB,cAAe,CACf,iBACF","file":"css.f0212fad.css","sourceRoot":"../src","sourcesContent":["#dice {\n  border: 1px solid black;\n  margin-bottom: 10px;\n  height: 100px;\n  width: 100px;\n  text-align: center;\n  font-size: 90px;\n  border-radius: 20%;\n}\n"]}
