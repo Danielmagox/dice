@@ -1,0 +1,9 @@
+#dice {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 90px;
+  border-radius: 20%;
+}
